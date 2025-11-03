@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://sumedha092.github.io/cse445_a4/Hotels.xsd">
-
   <Hotel Rating="4.2">
+    <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Name>Westin</Name>
     <Address NearestAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
@@ -14,10 +13,9 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="3.9">
-    <Phone>602-555-2345</Phone>
     <Name>Marriott</Name>
+    <Phone>602-555-2345</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>101</Number>
       <Street>N 1st St</Street>
@@ -26,11 +24,10 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.5">
+    <Name>Hilton Garden Inn</Name>
     <Phone>602-555-9988</Phone>
     <Phone>602-555-7788</Phone>
-    <Name>Hilton Garden Inn</Name>
     <Address NearestAirport="Sky Harbor">
       <Number>415</Number>
       <Street>W University Dr</Street>
@@ -39,10 +36,9 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.0">
-    <Phone>602-222-7654</Phone>
     <Name>Hyatt Place</Name>
+    <Phone>602-222-7654</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>4401</Number>
       <Street>E McDowell Rd</Street>
@@ -51,10 +47,9 @@
       <Zip>85008</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="3.8">
-    <Phone>602-777-1010</Phone>
     <Name>Courtyard by Marriott</Name>
+    <Phone>602-777-1010</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>601</Number>
       <Street>S Ash Ave</Street>
@@ -63,11 +58,10 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.7">
+    <Name>Canopy by Hilton</Name>
     <Phone>480-345-6000</Phone>
     <Phone>800-555-1212</Phone>
-    <Name>Canopy by Hilton</Name>
     <Address NearestAirport="Sky Harbor">
       <Number>108</Number>
       <Street>E University Dr</Street>
@@ -76,10 +70,9 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.1">
-    <Phone>480-350-3918</Phone>
     <Name>AC Hotel by Marriott</Name>
+    <Phone>480-350-3918</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>100</Number>
       <Street>E Rio Salado Pkwy</Street>
@@ -88,10 +81,9 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.3">
-    <Phone>480-897-7444</Phone>
     <Name>Embassy Suites</Name>
+    <Phone>480-897-7444</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>4400</Number>
       <Street>S Rural Rd</Street>
@@ -100,10 +92,9 @@
       <Zip>85282</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="3.6">
-    <Phone>480-731-9400</Phone>
     <Name>Holiday Inn Express</Name>
+    <Phone>480-731-9400</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>1520</Number>
       <Street>W Baseline Rd</Street>
@@ -112,11 +103,10 @@
       <Zip>85283</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.8">
+    <Name>Graduate Tempe</Name>
     <Phone>480-967-9431</Phone>
     <Phone>877-855-6933</Phone>
-    <Name>Graduate Tempe</Name>
     <Address NearestAirport="Sky Harbor">
       <Number>225</Number>
       <Street>E Apache Blvd</Street>
@@ -125,5 +115,4 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-
 </Hotels>
