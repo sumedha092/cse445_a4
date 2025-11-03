@@ -2,7 +2,7 @@
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://sumedha092.github.io/cse445_a4/Hotels.xsd">
   <Hotel Rating="4.2">
-    <Name>Westin</Name>
+    <n>Westin</n>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -14,7 +14,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="3.9">
-    <Name>Marriott</Name>
+    <n>Marriott</n>
     <Phone>602-555-2345</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>101</Number>
@@ -25,7 +25,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.5">
-    <Name>Hilton Garden Inn</Name>
+    <n>Hilton Garden Inn</n>
     <Phone>602-555-9988</Phone>
     <Phone>602-555-7788</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -37,7 +37,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.0">
-    <Name>Hyatt Place</Name>
+    <n>Hyatt Place</n>
     <Phone>602-222-7654</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>4401</Number>
@@ -48,7 +48,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="3.8">
-    <Name>Courtyard by Marriott</Name>
+    <n>Courtyard by Marriott</n>
     <Phone>602-777-1010</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>601</Number>
@@ -59,7 +59,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.7">
-    <Name>Canopy by Hilton</Name>
+    <n>Canopy by Hilton</n>
     <Phone>480-345-6000</Phone>
     <Phone>800-555-1212</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -71,7 +71,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.1">
-    <Name>AC Hotel by Marriott</Name>
+    <n>AC Hotel by Marriott</n>
     <Phone>480-350-3918</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>100</Number>
@@ -82,7 +82,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.3">
-    <Name>Embassy Suites</Name>
+    <n>Embassy Suites</n>
     <Phone>480-897-7444</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>4400</Number>
@@ -93,7 +93,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="3.6">
-    <Name>Holiday Inn Express</Name>
+    <n>Holiday Inn Express</n>
     <Phone>480-731-9400</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>1520</Number>
@@ -104,7 +104,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.8">
-    <Name>Graduate Tempe</Name>
+    <n>Graduate Tempe</n>
     <Phone>480-967-9431</Phone>
     <Phone>877-855-6933</Phone>
     <Address NearestAirport="Sky Harbor">
